@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx", /* Dòng này sẽ fix lỗi react/jsx-runtime */
+    "esModuleInterop": true,
+    "moduleResolution": "bundler"
+  }
+}
